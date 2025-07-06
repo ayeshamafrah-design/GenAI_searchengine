@@ -1,9 +1,8 @@
-# 🔬 InquisiAI: Your Research Assistant
+# InquisiAI: Your Research Assistant
 
 InquisiAI is a research-focused conversational assistant built using **LangChain**, **Streamlit**, and **Groq LLaMA 3**. It empowers users—especially students, researchers, and academics—to ask deep scholarly questions and get responses synthesized from **Arxiv**, **Wikipedia**, and the open web.
 
-![InquisiAI UI](https://github.com/ayeshamafrah-design/inquisi-ai/blob/main/inquisi.png)]
-)
+![InquisiAI UI](https://github.com/ayeshamafrah-design/inquisi-ai/blob/main/inquisi.png)
 
 ---
 
@@ -21,7 +20,7 @@ InquisiAI is a research-focused conversational assistant built using **LangChain
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ayeshamafrah-design.git
+   git clone https://github.com/ayeshamafrah-design/inquisi-ai.git
    cd inquisi-ai
    ```
 
@@ -43,13 +42,6 @@ InquisiAI is a research-focused conversational assistant built using **LangChain
 
 ---
 
-## 💡 Example Prompts
-
-- _“Summarize the latest Arxiv paper on Graph Neural Networks.”_
-- _“Explain the concept of attention mechanism in transformers.”_
-- _“Give a Wikipedia overview of Bayesian inference.”_
-
----
 
 ## 📄 Dependencies
 
@@ -67,11 +59,6 @@ This project is independently designed and academically inspired. While based on
 
 ---
 
-## 🤝 Contributions
-
-Want to extend this with features like PDF summarization, BibTeX citation export, or vector search? PRs are welcome!
-
----
 
 ## 📜 License
 
