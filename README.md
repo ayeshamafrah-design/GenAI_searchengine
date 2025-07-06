@@ -53,6 +53,12 @@ InquisiAI is a research-focused conversational assistant built using **LangChain
 
 ---
 
+## ⚠️ To use InquisiAI, you’ll need a free Groq API Key.
+Get one here: https://console.groq.com/keys
+Paste it into the app sidebar when prompted.
+
+---
+
 ## 🧠 Inspiration
 
 This project is independently designed and academically inspired. While based on LangChain's core capabilities, the idea, branding, interface, and research-focused purpose are original.
