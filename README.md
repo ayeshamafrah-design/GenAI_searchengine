@@ -2,7 +2,7 @@
 
 InquisiAI is a research-focused conversational assistant built using **LangChain**, **Streamlit**, and **Groq LLaMA 3**. It empowers users—especially students, researchers, and academics—to ask deep scholarly questions and get responses synthesized from **Arxiv**, **Wikipedia**, and the open web.
 
-![InquisiAI UI](![Uploading inquisi.png…]()
+![InquisiAI UI](https://github.com/ayeshamafrah-design/inquisi-ai/blob/main/inquisi.png)]
 )
 
 ---
