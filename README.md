@@ -58,6 +58,9 @@ Get one here: https://console.groq.com/keys
 Paste it into the app sidebar when prompted.
 
 ---
+@@ 🔗 Live Application
+Try InquisiAI here → https://inquisi-ai-asgfpytwwjyfb5hcnhpscp.streamlit.app
+(Requires a free Groq API Key to use)
 
 ## 🧠 Inspiration
 
